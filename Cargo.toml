@@ -1,0 +1,9 @@
+[package]
+name = "crypt_file"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chacha20 = "0.9.1" 
+cipher = "0.4"
+sha2 = "0.9"
